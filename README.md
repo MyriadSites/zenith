@@ -1,2 +1,2 @@
 # Zenith
-Nobody likes a snitch, now do they?
+Nobody likes a snitch.
